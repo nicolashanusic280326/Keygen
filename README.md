@@ -1,6 +1,8 @@
-# My Web App
+# Keygen
 
-This is a simple web application that generates unique keys when a button is clicked. The application is built using Flask and features a clean user interface.
+This is a simple web application that generates unique keys when a button is clicked. 
+This toll was created to help people who need unique keys for making own games and other thing.
+The application is built using Flask and features a clean user interface.
 
 ## Project Structure
 
