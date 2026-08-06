@@ -26,7 +26,7 @@ my-web-app
 1. **Clone the repository**:
    ```
    git clone https://github.com/nicolashanusic280326/Keygen.git
-   cd my-web-app
+   cd Keygen
    ```
 
 2. **Install dependencies**:
