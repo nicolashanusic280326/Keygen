@@ -25,7 +25,7 @@ my-web-app
 
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/nicolashanusic280326/Keygen.git
    cd my-web-app
    ```
 
