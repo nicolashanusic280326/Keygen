@@ -1,6 +1,6 @@
 # Keygen
 
-This is a simple web application that generates unique keys when a button is clicked. 
+This is a simple web application that generates 20 unique keys when a button is clicked. 
 This toll was created to help people who need unique keys for making own games and other thing.
 The application is built using Flask and features a clean user interface.
 
@@ -30,18 +30,25 @@ my-web-app
    ```
 
 2. **Install dependencies**:
-   Make sure you have Python and pip installed. Then run:
+   Make sure you have Python, pip and venv (in case of error) installed. Then run:
    ```
    pip install -r requirements.txt
    ```
 
-3. **Run the application**:
+   In case there is an error installing requirements run:
+    ```
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+    And than after you created python virtual enviroment try and install requirements again.
+
+4. **Run the application**:
    Start the Flask server by executing:
    ```
    python app.py
    ```
 
-4. **Access the application**:
+5. **Access the application**:
    Open your web browser and go to `http://127.0.0.1:5000` to view the application.
 
 ## Functionality
