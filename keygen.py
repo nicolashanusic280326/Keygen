@@ -10,7 +10,7 @@ def generate_key_for():
     ]
     return '-'.join(groups)
 
-def generate_keys(amount=20):
+def generate_keys(amount=1):
     keys = []
     seen = set()
 
